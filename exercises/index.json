@@ -1,0 +1,80 @@
+{
+    "learnocaml_version": "1",
+    "groups":
+    {
+        "bases":
+        {
+            "title": "Bases",
+            "exercises": [
+                "base_fonctions_paires",
+                "base_fonctions_paires_2",
+                "base_fonctions_paires_3",
+                "base_fonctions_paires_4"
+            ]
+        },
+        "sommes":
+        {
+            "title": "Types somme",
+            "exercises": [
+                "base_types_somme",
+                "base_types_somme_2",
+                "base_types_somme_3",
+                "base_option",
+                "base_option_2"
+            ]
+        },
+        "recursion":
+        {
+            "title": "Récursion",
+            "exercises": [
+                "recursion_moves",
+                "recursion_list_bases"
+            ]
+        },
+        "lists":
+        {
+            "title": "Fonctions sur les listes",
+            "exercises": [
+                "recursion_list_map",
+                "recursion_list_filter",
+                "recursion_list_fold_left",
+                "recursion_list_fold_right",
+                "recursion_list_append",
+                "recursion_list_rev"
+            ]
+        },
+        "sorted_lists":
+        {
+            "title": "Fonctions sur les listes triées",
+            "exercises": [
+                "recursion_included",
+                "recursion_included_sort",
+                "complexite_unique",
+                "sort_insertion",
+                "sort_merge",
+                "quicksort"
+            ]
+        },
+        "more_recursion":
+        {
+            "title": "Rëcursion avancée",
+            "exercises": [
+                "tree_count_leaves",
+                "tree_count_nodes",
+                "tree_leaves",
+                "recursion_fast_pow",
+                "recursion_facteurs_premiers",
+                "cartesian_product",
+                "recursion_ntrees",
+                "recursion_seq"
+            ]
+        },
+        "hard":
+        {
+            "title": "Exercices difficiles",
+            "exercises": [
+                "lambda"
+            ]
+        }
+    }
+}

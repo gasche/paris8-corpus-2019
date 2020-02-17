@@ -1,0 +1,1 @@
+type personne = string * int
